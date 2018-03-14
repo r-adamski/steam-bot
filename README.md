@@ -1,0 +1,2 @@
+# steam-bot
+Trading bot
