@@ -20,8 +20,8 @@ var logOnOptions = {};
 rl.question("Tell me your mobile authCode please :) ", function(answer) {
 	//var code = SteamTotp.generateAuthCode('R97520');
 	logOnOptions = {
-		account_name: 'tikowski99',
-		password: 'asdqwezxc9182',
+		account_name: '---------',
+		password: '------------',
 		two_factor_code: answer
 	};
 	console.log("Thank you :D");
@@ -34,9 +34,9 @@ rl.question("Tell me your mobile authCode please :) ", function(answer) {
 
 var mysqlInfo = {
   host     : 'localhost',
-  user     : 'root',
-  password : 'tspeak123',
-  database : 'jackpot',
+  user     : '---------',
+  password : '--------------',
+  database : '-------',
   charset  : 'utf8_general_ci'
 };
  
